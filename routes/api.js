@@ -429,7 +429,6 @@ res.status(200).send('Updated Successfully')
                 "size":"250 ML",
                 "crust":"Strawberry Glaze Toppin"
             },
-           
         ]
 
         res.json(nonvegitems)
